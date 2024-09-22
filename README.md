@@ -87,10 +87,7 @@ results = model(image)
 results.show()
 
 ## Installation Instructions
-Clone the repository:
 
-git clone https://github.com/yourusername/helmet-ppe-detection.git
-cd helmet-ppe-detection
 Install dependencies:
 
 pip install ultralytics roboflow opencv-python
